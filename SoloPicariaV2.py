@@ -7,9 +7,9 @@ Description: This program implements a graphical user interface (GUI) version of
              Players take turns moving their pieces with the goal of forming a straight line of 
              three pieces, either horizontally, vertically, or diagonally.
 
-Author: [Your Name]
+Author: C. Andrew Martinus
 
-Last Edited: [Last Edited Date]
+Last Edited: 2024-09-24
 
 ==================================================================================================
 """
